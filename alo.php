@@ -1,7 +1,7 @@
 <?php
 ///
 ///   20240820
-echo "ALO MUNDO";
+echo "<p style='text-align:center;font-size:medium;font-weight:bold;'>ALO MUNDO</p>";
 ///
 ?>
 
